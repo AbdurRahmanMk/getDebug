@@ -1,0 +1,9 @@
+
+ git status
+
+ git add .
+
+ git commit -m "Comment Whatever I want did change"
+
+ git push origin main
+
